@@ -1,7 +1,8 @@
 # Archivit
 #### Project of 2024 google solution challenge
 
-![alt text](<../images/KakaoTalk_Photo_2024-02-23-22-07-22 002.jpeg>)
+![alt text](https://github.com/AGILE-CK/.github/raw/main/images/KakaoTalk_Photo_2024-02-23-22-07-22%20002.jpeg)
+
 ## MEMBERS
 | Ko EunJin | Lee Sunggu  | Lim ChaeHyeong | Lao ChingSan |
 |---|---|---|---|
@@ -11,7 +12,7 @@
 ## Targeting of UN - SDGs
 
 <!-- ![alt text](image-1.png) ![alt text](image-3.png) ![alt text](image-4.png) -->
-![alt text](<../images/KakaoTalk_Photo_2024-02-23-22-07-22 003.jpeg>)
+![alt text](https://github.com/AGILE-CK/.github/raw/main/images/KakaoTalk_Photo_2024-02-23-22-07-22%20003.jpeg)
 #### About our solution 
 In our current korea society, various incidents of violence have emerged as a serious social issue. The Archivit app aims to help vulnerable individuals live a healthy life without worrying about tomorrow amid these incidents.
 
@@ -36,10 +37,10 @@ ___
 
 <img src="image-9.png" alt="alt text" width="390" height="844"> -->
 
-![alt text](<../images/KakaoTalk_Photo_2024-02-23-22-07-23 005.jpeg>)
+![alt text](https://github.com/AGILE-CK/.github/raw/main/images/KakaoTalk_Photo_2024-02-23-22-07-23%20006.jpeg)
 
 
-![alt text](<../images/KakaoTalk_Photo_2024-02-23-22-07-23 006.jpeg>)
+![alt text](https://github.com/AGILE-CK/.github/raw/main/images/KakaoTalk_Photo_2024-02-23-22-07-23%20005.jpeg)
 
 ---
 
@@ -133,7 +134,7 @@ POST /summarize/: Summarizes the provided text.
 * TensorFlow & Hugging Face Pipelines: For emotion detection and speaker diarization.
 
 #### Project Architecture
-![alt text](<../images/KakaoTalk_Photo_2024-02-23-22-07-23 004.jpeg>)
+![alt text](https://github.com/AGILE-CK/.github/raw/main/images/KakaoTalk_Photo_2024-02-23-22-07-23%20004.jpeg)
 
 
 #### Server URL 
