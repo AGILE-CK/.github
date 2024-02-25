@@ -149,8 +149,10 @@ POST /summarize/: Summarizes the provided text.
 ## Improvement things
 
 #### Planning
+The methods for victims to receive remedies are very diverse and hard to find. Even if you succeed in finding it, the procedure is complex. We wanted to solve this by guiding the process through a chatbot and allowing us to create a remedy application that fits the templates of each institution through the evidence we have collected and AI. However, during this Solution Challenge period, we did not have much time and could not fully implement it.
 
 
+* [Source](https://docs.google.com/spreadsheets/d/1hcungJAGTACJApmnxmV_1gB_2RpvLb0A/edit?usp=sharing&ouid=103564838690673927306&rtpof=true&sd=true)
 #### Frontend 
 
 * Currently, this project only supports iOS. In the case of Android, there is a lack of functionality for background services. It would be great if this could be further supplemented.
@@ -173,12 +175,6 @@ POST /summarize/: Summarizes the provided text.
 
 ----
 ## FeedBack
-<!-- - It would be very nice to write history of what you are thinking and hard to implement during this project. (Gdsc tell this part is important.) -->
-<!-- If the project had been carried out in this way upon completion, it would have been even better. -->
-
-#### Planning
-
-
 #### Frontend 
  Flutter did not support multiple recordings. If I had realized this fact sooner and thought of an alternative(Like GRPC), I could have achieved much better results. And I felt that communication within the team is important.
 
